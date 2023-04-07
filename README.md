@@ -3,11 +3,11 @@
   <h2>🙎‍♂️ About Me</h2>
 
 
-- 👋 Hi, I’m @m-irfan
+- 👋 Hi, I’m @Muhammad-Irfan.
 - 👀 I’m interested in to solving problems.
 - 🌱 I’m currently learning socket.io with nodejs.
 - 💞️ I’m looking to collaborate on all types of mern stack projects.
-- 💬 Ask any MERN Stack related stuffs.
+- 💬 Ask any Javacript (Vanilla JS, React, Typescript, Nextjs, Tailwindcss) related stuffs.
 
  <h2>🚀 Tools & Languages: </h2>
  <div style="display:flex">
