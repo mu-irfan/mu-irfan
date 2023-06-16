@@ -5,7 +5,7 @@
 
 - 👋 Hi, I’m @Muhammad-Irfan.
 - 👀 I’m interested in to solving problems.
-- 🌱 ’m currently diving deep into Next.js and million.js.
+- 🌱 I’m currently diving deep into Next.js and million.js.
 - 📫 How to reach me irfan.dev34@gmail.com
 - 💞️ I’m looking to collaborate on Open-Source Projects.
 - 💬 Ask any Javacript (Vanilla JS, React, Typescript, Nextjs, Nodejs, Express, Tailwindcss) related stuffs.
