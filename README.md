@@ -1,4 +1,5 @@
-![Digital Marketing Creative Blue and Orange LinkeIn Banner](https://user-images.githubusercontent.com/111001343/186202443-cde4cd3c-fe3d-4152-9c5d-bfe18db58973.png)
+![Black Minimalist Fashion Store LinkedIn Banner](https://github.com/mu-irfan/mu-irfan/assets/111001343/2729bf9c-8b15-4b9c-9aa8-5b6427992fd3)
+
 
   <h2>🙎‍♂️ About Me</h2>
 
