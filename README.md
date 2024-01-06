@@ -1,5 +1,3 @@
-![Black Minimalist Fashion Store LinkedIn Banner](https://github.com/mu-irfan/mu-irfan/assets/111001343/2729bf9c-8b15-4b9c-9aa8-5b6427992fd3)
-
 ![Black Technology LinkedIn Banner (2)](https://github.com/mu-irfan/mu-irfan/assets/111001343/cb6d42be-29a1-4b15-aa1a-aa5b57508718)
 
 
