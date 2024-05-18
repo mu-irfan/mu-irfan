@@ -5,7 +5,7 @@
  👀 I’m interested in to solving problems.  <br>
  🌱 I'm Currently working in Greenage Services as software developer.  <br>
  📫 How to reach me irfan.dev34@gmail.com.  <br>
- 💞️ 'm looking to collaborate into web projects in React, Nextjs.  <br>
+ 💞️ I'm looking to collaborate into web projects in React, Nextjs.  <br>
  💬 Ask any Javacript (Vanilla JS, React, Typescript, Nextjs, Nodejs, Express, Tailwindcss) related stuffs.  <br>
 
 
